@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "cpp.exe build active file",
+            "command": "C:\\Program Files (x86)\\DTS\\DTS\\DTSGCC\\cygwin\\bin\\cpp.exe",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "C:\\Program Files (x86)\\DTS\\DTS\\DTSGCC\\cygwin\\bin"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}
