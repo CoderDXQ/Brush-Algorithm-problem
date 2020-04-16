@@ -36,11 +36,11 @@ bool duplicate(int numbers[],int length,int* duplication)
 
 //二分法
 int getDuplication(const int* numbers,int length)
-{
+{//直接传入数组的地址
     if(numbers==nullptr||length<0)
     {
-        return -1;
-    }
+        return -1;//表示函数执行失败
+    }//增加健壮性
 
     int start=1;
     int end=length-1;
@@ -48,8 +48,32 @@ int getDuplication(const int* numbers,int length)
     {
         int middle=((end-start)>>1)+start;//正确计算公式
         int count=countRange(numbers,length,start,middle);
+        //计算左半边数字在数组中的重复次数
+        if(end==start)
+        {
+            if(count>1)
+                return start;
+            else 
+                break;
+        }
+        if(count>(middle-start+1))
+            end=middle;//左半边必有重复
+        else//右半边必有重复
+            start=middle+1;
     }
-    
+    return -1;
+}
 
+int countRange(const int* numbers,int length,int start,int end)
+{
+    if(numbers==nullptr)
+        return 0;//增加健壮性
+
+    int count=0;
+    for(int i=0;i<length;i++)
+        if(numbers[i]>=start&&numbers[i]<=end)
+            ++count;
+
+    return count;
 }
 
