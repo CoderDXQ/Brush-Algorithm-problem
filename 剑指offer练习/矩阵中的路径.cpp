@@ -28,7 +28,7 @@ bool hasPath(char* matrix,int rows,int cols,char* str)
 bool hasPathCore(const char* matrix,int rows,int cols,int row,int col,const char* str,int& pathLength,bool* visited)
 {//变量后加&代表引用
     if(str[pathLength]=='\0')
-        return true;
+        return true;//找全了字符串
 
     bool hasPath=false;
     if(row>=0 && row<rows && col>=0 && col<cols && matrix[row*cols+col]==str[pathLength] && !visited[row*cols+col])
@@ -40,11 +40,13 @@ bool hasPathCore(const char* matrix,int rows,int cols,int row,int col,const char
                 ||hasPathCore(matrix,rows,cols,row-1,col,str,pathLength,visited)
                 ||hasPathCore(matrix,rows,cols,row,col+1,str,pathLength,visited)
                 ||hasPathCore(matrix,rows,cols,row,col-1,str,pathLength,visited);
+    
+        if(!hasPath)
+        {//回溯
+            --pathLength;
+            visited[row*cols+col]=false;
+        }
     }
-    if(!hasPath)
-    {//回溯
-        --pathLength;
-        visited[row*cols+col]=false;
-    }
+    
     return hasPath;
 }
