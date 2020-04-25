@@ -7,37 +7,28 @@ struct Node
     Node* next;
 };
 
-
 void dayin(Node* list1,Node* list2)
 {
-    Node* n1;
-    Node* n2;
+    Node* n1=list1;
+    Node* n2=list2;
 
-    n1=list1;
-    n2=list2;
-
-    while(n1!=nullptr)
+    while(n1!=nullptr && n2!=nullptr)
     {
-        cout<<n1->s<<' ';
-
-
-        while(n2!=nullptr)
+        if(n1->s<n2->s)
         {
-            while(n1->s==n2->s)
-            {
-                cout<<n1->s<<' ';
-                n1=n1->next;
-                n2=n2->next;
-            }
-
-         n2=n2->next;
-
+            n1=n1->next;
         }
-
-        n2=list2;
-        n1=n1->next;
+        else if(n1->s==n2->s)
+        {
+            cout<<n1->s<<' ';
+            n1=n1->next;
+            n2=n2->next;
+        }
+        else 
+        {
+            n2=n2->next;
+        }
     }
-
 }
 
 
@@ -48,7 +39,7 @@ int main()
     list1->next=nullptr;
 
     Node* head1=list1;
-    for(int i=0;i<=5;i++)
+    for(int i=0;i<=4;i++)
     {
         int k;
         cin>>k;
@@ -58,13 +49,12 @@ int main()
         head1->next=nullptr;
     }
 
-
     Node* list2=new(Node);
     list2->s=-4;
     list2->next=nullptr;
 
     Node* head2=list2;
-    for(int i=0;i<=5;i++)
+    for(int i=0;i<=4;i++)
     {
         int k;
         cin>>k;
@@ -74,37 +64,9 @@ int main()
         head2->next=nullptr;
     }
     
-    
     cout<<"**********"<<endl;
-    while(list1!=nullptr)
-    {
-        cout<<list1->s<<' ';
-        list1=list1->next;
-    }
-
-
-    cout<<endl;
-    while(list2!=nullptr)
-    {
-        cout<<list2->s<<' ';
-        list2=list2->next;
-    }
 
     dayin(list1,list2);
 
     return 0;
 }
-
-
-vim
-/
-rm -rf 
-
-name course  score 
-
-
-SELECT name FROM table
-where AVG(select score from TABLE group by name)>=60;
-
-
-
