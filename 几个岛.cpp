@@ -95,47 +95,46 @@ int n,m,sum;
 //int find(int x){return f[x]==x?x:f[x]=find(f[x]);}
 int tt(int x)
 {
-    return flag[x]==x ? x:tt(flag[x]);
-}
+    return flag[x]==x ? x:flag[x]=tt(flag[x]);
+}//:后的东西必须有 并查集下的所有元素的爹都是相同的
 
 void check(int x,int y)
 {
     for(int i=0;i<4;i++)
     {
         int dx=xx[i]+x;
-        int dy=yy[i]+y;
+        int dy=yy[i]+y;//四向移动
         if(dx<0 || dx>=n || dy<0 || dy>=m || a[dx][dy]==0 )
-            continue;
+            continue;//过滤(x,y)的四周不合法的情况和是海水的情况
         int t=tt(a[dx][dy]);
-        int u=tt(a[x][y]);
+        int u=tt(a[x][y]);//找爹
         if(t!=u)
-        {
-            sum--;
-            flag[u]=flag[t];
+        {//合并岛屿
+            sum--;//合并岛屿会造成岛屿个数减少 第一次a[x][y]与其他岛屿合并并不会造成数量减少 解决在第138行
+            flag[u]=flag[t];//u并到t上
         }
     }
 }
-
 
 int main()
 {
     int k,x,y;
     while(cin>>n>>m>>k)
     {
-        memset(a,0,sizeof(a));
-        sum=0;
+        memset(a,0,sizeof(a));//初始化
+        sum=0;//岛屿总数
         for(int i=1;i<=k;i++)
         {
             cin>>x>>y;
             if(x<0 || x>=n || y<0 || y>=m || a[x][y]!=0)
-            {
-                b[i]=sum;
+            {//输入不合法或者输入的格子已经变成岛屿
+                b[i]=sum;//b数组存的是第几次输入是岛屿的个数
                 continue;
             }
-            flag[i]=i;
             a[x][y]=i;
+            flag[i]=i;//这个并查集下只有一个元素 即自己是自己的爹
             check(x,y);
-            b[i]=++sum;
+            b[i]=++sum;//a[x][y]周围都是水则需要先加1 再赋值
         }
 
         for(int i=1;i<=k;i++)
