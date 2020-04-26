@@ -1,2 +1,1 @@
-
-    while(list1!=nullptr)
+prefix[i]
