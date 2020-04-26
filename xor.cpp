@@ -1,3 +1,4 @@
+//https://www.nowcoder.com/questionTerminal/7cffea0c097c4337821ab3ba25447c1c
 //贪心+二分
 //^是异或操作 是位运算 一个非零数同0进行运算为原数 同自身运算为0 二进制的每一位上都是同0异1
 //首先我们知道若[L,R]这段区间异或和为0，则prefix[R] - prefix[L-1]==0,即prefix[R] = prefix[L-1]

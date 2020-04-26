@@ -1,3 +1,4 @@
+//https://www.nowcoder.com/questionTerminal/6d76dfaf92cf478b93b60dd277b94ffa
 #include<bits/stdc++.h>
 using namespace  std;
 

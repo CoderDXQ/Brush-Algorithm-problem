@@ -1,3 +1,4 @@
+//https://www.nowcoder.com/questionTerminal/5a93963ecd2444a29c3e078e0a0c8796
 #include "stdio.h"
 #include "limits.h"
 #include <iostream>
