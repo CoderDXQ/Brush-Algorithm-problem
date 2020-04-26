@@ -27,10 +27,13 @@ int main(){
         else{
             int num=prefix[i];//num取值为a[i]的前缀异或结果
 
-            //寻找前缀异或结果相同的vector中第一个不小于i的数字的下标
-            int idx=lower_bound(v[num].begin(),v[num].end(),i)-v[num].begin();//idx是a数组的一个下标
+            //寻找前缀异或结果相同的vector中第一个不小于i的数字的下标 i是数组a的下标
+            int idx=lower_bound(v[num].begin(),v[num].end(),i)-v[num].begin();
+          //idx是vector数组的下标 vector是从0开始的
           //  printf("%d %d\n",idx,pos);
-            if(idx>0 && v[num][idx-1]>=pos){//后续的查找不可以在pos位置之前
+            if(idx>0 && v[num][idx-1]>=pos){
+    //idx=0 说明不存在区间且a[i]不为0
+    //后续的查找不可以在pos位置之前且区间长度>0 v[num][idx-1]是对应区间[L,R]的L-1 见上面分析
                 pos=i;//标记位置 后续的查找不可以在这个位置之前
                 ans++;//又找到一个区间 结果加1
             }
