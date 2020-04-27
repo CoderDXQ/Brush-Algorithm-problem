@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+    
         
         {
             "name": "C++ Launch (GDB)", // 配置名称，将会在启动配置的下拉菜单中显示
