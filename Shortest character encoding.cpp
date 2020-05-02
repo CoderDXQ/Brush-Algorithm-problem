@@ -5,6 +5,8 @@ using namespace std;
 string encode(string s)
 {
     int length=s.size();
+    //二维动态数组 元素是vector<string>
+    //vector<string>(length,"")的意思是vector数组初始长度为length，内容为空
     vector<vector<string>> dp(length,vector<string>(length,""));
 
     for(int step=1;step<=length;step++)
@@ -15,7 +17,7 @@ string encode(string s)
             dp[i][j]=s.substr(i,step);
             for(int k=i;k<j;k++)
             {
-                string left=dp[i][j];
+                string left=dp[i][k];
                 string right=dp[k+1][j];
                 if(left.size()+right.size()<dp[i][j].size())
                 {
@@ -31,6 +33,14 @@ string encode(string s)
             if(replace.size()<dp[i][j].size()) dp[i][j]=replace;
         }
     }
+
+    for(int i=0;i<length;i++)
+    {
+        for(int j=0;j<length;j++)
+            cout<<dp[i][j];
+        cout<<endl;
+    }
+
     return dp[0][length-1];
 }
 
