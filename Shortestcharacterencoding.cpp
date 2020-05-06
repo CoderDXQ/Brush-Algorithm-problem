@@ -51,5 +51,6 @@ int main()
     string s;
     cin>>s;
     cout<<encode(s).length()<<endl;
+    getchar();
     return 0;
 }

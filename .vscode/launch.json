@@ -1,68 +1,19 @@
 
-{
+ {
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Windows 上的 Bash 启动",
+            "name": "g++.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "输入程序名称，例如 ${workspaceFolder}/a.exe",
-            "args": [],
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": ["/C", "${fileDirname}/${fileBasenameNoExtension}.exe", "&", "pause"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
-            "externalConsole": false,
-            "pipeTransport": {
-                "debuggerPath": "/usr/bin/gdb",
-                "pipeProgram": "${env:windir}\\system32\\bash.exe",
-                "pipeArgs": ["-c"],
-                "pipeCwd": ""
-            },
-            "setupCommands": [
-                {
-                    "description": "为 gdb 启用整齐打印",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ]
-        },
-    {
-        "name": "(gdb) Windows 上的 Bash 启动",
-        "type": "cppdbg",
-        "request": "launch",
-        "program": "输入程序名称，例如 ${workspaceFolder}/a.exe",
-        "args": [],
-        "stopAtEntry": false,
-        "cwd": "${workspaceFolder}",
-        "environment": [],
-        "externalConsole": false,
-        "pipeTransport": {
-            "debuggerPath": "/usr/bin/gdb",
-            "pipeProgram": "${env:windir}\\system32\\bash.exe",
-            "pipeArgs": ["-c"],
-            "pipeCwd": ""
-        },
-        "setupCommands": [
-            {
-                "description": "为 gdb 启用整齐打印",
-                "text": "-enable-pretty-printing",
-                "ignoreFailures": true
-            }
-        ]
-    },
-        {
-            "name": "C/C++",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "environment": [],
-            "externalConsole": false,
+            "externalConsole": false,      //修改此项，让其弹出终端
             "MIMode": "gdb",
-            "miDebuggerPath": "E:\\mingw64\\bin\\gdb.exe",
-            "preLaunchTask": "compile",
+            "miDebuggerPath": "E:/mingw64/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
@@ -70,6 +21,7 @@
                     "ignoreFailures": true
                 }
             ],
-        },
+            "preLaunchTask": "task g++" //修改此项
+        }
     ]
 }
