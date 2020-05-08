@@ -6,7 +6,7 @@
             "name": "g++.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "program": "C:\\Windows\\system32\\cmd.exe",
             "args": ["/C", "${fileDirname}/${fileBasenameNoExtension}.exe", "&", "pause"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
