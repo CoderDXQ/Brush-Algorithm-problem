@@ -1,38 +1,17 @@
-
 {
     "version": "2.0.0",
-    "command": "gcc",
-    "tasks": [
-        {
-            "type": "shell",
-            "label": "task g++",    //修改此项
-            "command": "E:\\mingw64\\bin\\g++.exe",
-            "args": [
-                "-g",
-                "${file}",
-                "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
-            ],
-            "options": {
-                "cwd": "E:\\mingw64\\bin"
-            },
-            "problemMatcher": [
-                "$gcc"
-            ],
-
-            "group": "build",
-
-            "presentation": {
-                "echo": true,
-                "reveal": "always",
-                "focus": false,
-                "panel": "new", //这里shared表示共享，改成new之后每个进程创建新的端口
-                "showReuseMessage": true,
-                "clear": false
-            }
-
-            
-            
+    "command": "g++",
+    "args": ["-g","${file}","-o","${fileBasenameNoExtension}.exe"], // 编译命令参数
+    "problemMatcher": {
+        "owner": "cpp",
+        "fileLocation": ["relative", "${workspaceRoot}"],
+        "pattern": {
+            "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+            "file": 1,
+            "line": 2,
+            "column": 3,
+            "severity": 4,
+            "message": 5
         }
-    ]
-}
+    }
+  }

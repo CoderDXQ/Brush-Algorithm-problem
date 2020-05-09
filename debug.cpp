@@ -21,4 +21,5 @@ int main(){
    cout<<endl;
    quicksort(A,0,10-1);
    for(int i=0;i<10;i++) cout<<A[i]<<' ';
+   getchar();
 }
