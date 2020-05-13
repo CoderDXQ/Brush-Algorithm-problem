@@ -59,6 +59,8 @@ int maxProductAfterCutting_solution2(int length)
 
 int main()
 {
-    
-    
+    int n;
+    cin>>n;
+    cout<<maxProductAfterCutting_solution1(n)<<endl;
+    cout<<maxProductAfterCutting_solution2(n)<<endl;
 }
