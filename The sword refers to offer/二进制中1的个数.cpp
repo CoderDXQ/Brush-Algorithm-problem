@@ -32,6 +32,7 @@ int NumberOf1(int n)
 
 //优秀解法 减1操作
 //原理：n每次和n-1进行一次与运算可以将n的二进制表示中最右边的一个1消去
+???实验或者证明一下
 int NumberOf1(int n)
 {
     int count=0;
