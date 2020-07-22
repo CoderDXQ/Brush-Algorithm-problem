@@ -6,12 +6,27 @@ using namespace std;
 
 const int g_MaxNumberLength=10;
 
-char* g_StrCombine1=new char[]g_MaxNumberLength*2+1;
-char* g_StrCombine2=new char[]g_MaxNumberLength*2+1;
+char* g_StrCombine1=new char[g_MaxNumberLength*2+1];
+char* g_StrCombine2=new char[g_MaxNumberLength*2+1];
+
+//字符串相关函数的使用
+//
+//这个函数必须在PrintMinNumber前面进行声明
+int compare(const void* strNumber1,const void* strNumber2)
+{//排序规则
+    strcpy(g_StrCombine1,*(const char**)strNumber1);
+    strcat(g_StrCombine1,*(const char**)strNumber2);
+
+    strcpy(g_StrCombine2,*(const char**)strNumber2);
+    strcat(g_StrCombine2,*(const char**)strNumber1);
+  
+    return strcmp(g_StrCombine1,g_StrCombine2);
+}
+
 
 void PrintMinNumber(int* numbers,int length)
 {
-    if(numbers==nullptr || length<=0)
+    if(numbers == nullptr || length<=0)
         return;//健壮性
     
     char** strNumbers=(char**)(new int[length]);
@@ -32,18 +47,7 @@ void PrintMinNumber(int* numbers,int length)
         delete[] strNumbers[i];
 }
 
-//字符串相关函数的使用
-//
-int compare(const void* strNumber1,const void* strNumber2)
-{//排序规则
-    strcpy(g_StrCombine1,*(const char**)strNumber1);
-    strcat(g_StrCombine1,*(const char**)strNumber2);
 
-    strcpy(g_StrCombine2,*(const char**)strNumber2);
-    strcat(g_StrCombine2,*(const char**)strNumber1);
-  
-    return strcmp(g_StrCombine1,g_StrCombine2);
-}
 
 int main()
 {
