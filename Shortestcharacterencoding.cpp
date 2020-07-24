@@ -44,8 +44,6 @@ string encode(string s)
     return dp[0][length-1];
 }
 
-
-
 int main()
 {
     string s;
