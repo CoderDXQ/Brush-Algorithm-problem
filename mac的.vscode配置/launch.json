@@ -1,7 +1,8 @@
 {
-    // 使用 IntelliSense 了解相关属性。 
-    // 悬停以查看现有属性的描述。
-    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    //指导文档，不过不需要按照下面链接中替换json文件
+    //https://medium.com/gdplabs/build-and-debug-c-on-visual-studio-code-for-mac-77e05537105e
+    
+    //mac需要安装xcode，然后安装c/c++、Code Runner、CodeLLDB等插件，然后command+shift+B执行即可
     "version": "0.2.0",
     "configurations": [
         {
