@@ -83,11 +83,11 @@ unsigned int Sum_Solution3(unsigned int n)
 //方法四：模版类型
 template <unsigned int n>struct Sum_Solution4
 {
-    enum Value{N=Sum_Solution4<n-1>::N+n};
+    enum Value{N=Sum_Solution4<n-1>::N + n};//Sum_Solution4<n-1>::N引用静态类型中的变量即n-1 这里可以形成递归
 };
 
-template <>struct Sum_Solution44<1>
-{
+template <>struct Sum_Solution4<1>
+{//递归到底开始返回
     enum Value{N=1};
 };
 
