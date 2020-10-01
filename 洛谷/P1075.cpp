@@ -54,7 +54,7 @@ int main()
 		if(prime[i]==1) Prime[num++]=i;//i早已被他的因数筛查过
 		for(int j=0;j<num&&Prime[j]*i<=n;j++)//不加Prime[j]*i<=n可能在运行下一句时超界 
 		{
-			prime[i*Prime[j]]=false;//筛选 标记
+			prime[i*Prime[j]]=false;//筛选 标记  扫一遍已经生成的素数表
 			if(i%Prime[j]==0) break;
 			//剪枝 i>Prime[j]，若 i%Prime[j]==0则i的倍数早已被 Prime[j]筛查过 
 		 } 
