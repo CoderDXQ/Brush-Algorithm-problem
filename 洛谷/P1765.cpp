@@ -14,15 +14,17 @@ int main()
 
 
     getline(cin,st);
+    int i=0;
+
     for(int i=0;i<st.length();i++)
-        {
+        {//开头的空格也要按一次
             if(st[i]==' ') sum++;
-            else
+            else if(st[i]<='z' && st[i]>='a')//getcline会读入末尾的回车 因此else语句必须要再用if限制一下
             {
                 sum+=num[st[i]-'a'];
             }
             
         }
-        cout<<sum<<endl;
+    cout<<sum<<endl;
     return 0;
 }
