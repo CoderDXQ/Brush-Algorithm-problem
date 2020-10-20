@@ -16,10 +16,12 @@ int main()
     // cout<<endl;
 
 
-    string st;
-    getline(cin,st);
-    for(int i=0;i<=st.length();i++) //输出所有字符包括末尾回车的ASCII码   getline方法会读入末尾的换行符
-        cout<<(int)(st[i])<<" ";
+    // string st;
+    // getline(cin,st);
+    // for(int i=0;i<=st.length();i++) //输出所有字符包括末尾回车的ASCII码   getline方法会读入末尾的换行符
+    //     cout<<(int)(st[i])<<" ";
 
-    return 0;
+    // return 0;
+
+    cout<<"\"";
 }
