@@ -1,8 +1,8 @@
-#include <bitset>
-#include <iostream>
-#include <ctime>
+// #include <bitset>
+// #include <iostream>
+// #include <ctime>
 
-//#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -27,7 +27,7 @@ int main()
         if (b.test(i))
         {
             count++;
-            int k = i * 2;
+            int k = i << 1;
             while (k <= N)
             {
                 //从位集里删除某个数
@@ -49,6 +49,7 @@ int main()
     clock_t cend = clock();
     double millis = 1000.0 * (cend - cstart) / CLOCKS_PER_SEC;
 
+    //cout<<"haha"<<endl;
     cout << count << "primes\n"
          << millis << " milliseconds\n";
 

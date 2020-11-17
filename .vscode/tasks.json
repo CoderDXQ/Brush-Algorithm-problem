@@ -9,5 +9,14 @@
            "command": "osascript -e 'tell application \"Terminal\"\ndo script \"echo hello\"\nend tell'",
            "problemMatcher": []
         }
+        // {
+        //     "label": "build and run",
+        //     "type": "shell",
+        //     "command": "g++ -o ${workspaceRoot}/your_program_name ${workspaceRoot}/your_file_name.cpp;${workspaceRoot}/your_program_name",
+        //     "group": {
+        //         "kind": "build",
+        //         "isDefault": true
+        //     }
+        // }
     ]
 }
