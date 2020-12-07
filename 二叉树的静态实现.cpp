@@ -1,10 +1,14 @@
+//二叉树的静态实现是指用普通栈来代替二叉树操作中用到的递归栈
+//静态二叉树的实现是指用数组来存放二叉树节点 二叉树的操作可以借助递归
+
 #include <bits/stdc++.h>
 using namespace std;
 
-enum  Tag{left,right};
-
-typedef
-
+enum Tag
+{
+    left,
+    right
+};
 
 typedef struct node
 {
@@ -13,10 +17,18 @@ typedef struct node
     struct node *rchild;
 } BTNode;
 
+typedef struct
+{
+    BTNode *node;
+    Tag tag;
+
+} TagNode;
+
 void InOrderWithoutRecursion(BTNode *root);
 void PreOrderWithoutRecursion(BTNode *root);
 void PreOrderWithoutRecursion1(BTNode *root);
 void PostOrderWithoutRecursion(BTNode *root);
+void PostOrderWithoutRecursion1(BTNode *root);
 
 int main()
 {
@@ -42,7 +54,7 @@ void InOrderWithoutRecursion(BTNode *root)
         {
             p = s.top();
             s.pop();
-            cout << setw(4) << p - data;
+            cout << setw(4) << p->data;
             p = p->rchild;
         }
     }
@@ -115,7 +127,7 @@ void PostOrderWithoutRecursion(BTNode *root)
         s.push(pCur);
         pCur = pCur->lchild;
     }
-    while (!s.empty)
+    while (!s.empty())
     {
         pCur = s.top();
         s.pop();
@@ -131,9 +143,45 @@ void PostOrderWithoutRecursion(BTNode *root)
             pCur = pCur->rchild;
             while (pCur)
             {
-                s.push(pCur)
-                    pCur = pCur->lchild;
+                s.push(pCur);
+                pCur = pCur->lchild;
             }
+        }
+    }
+}
+
+void PostOrderWithoutRecursion1(BTNode *root)
+{
+
+    if (root == NULL)
+        return;
+
+    stack<TagNode> s;
+    TagNode tagnode;
+    BTNode *p = root;
+
+    while (!s.empty() || p)
+    {
+        while (p)
+        {
+            tagnode.node = p;
+            tagnode.tag = Tag::left;
+            s.push(tagnode);
+            p = p->lchild;
+        }
+        tagnode = s.top();
+        s.pop();
+
+        if (tagnode.tag == Tag::left)
+        {
+            tagnode.tag = Tag::right;
+            s.push(tagnode);
+            p = tagnode.node->rchild;
+        }
+        else
+        {
+            cout << setw(4) << tagnode.node->data;
+            p = NULL;
         }
     }
 }
