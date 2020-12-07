@@ -85,6 +85,7 @@ int id = 0;
 struct Node
 {
     int data, left, right;
+
     Node()
     {
         left = right = -1;
@@ -96,25 +97,32 @@ int buildTree(vector<int> pre, vector<int> vin)
     if (pre.empty() || vin.empty())
         return -1;
 
+    //先序遍历vector的第0个元素就是此时的根
     int val = pre[0], index = 0;
+    //构造节点
     int root = ++id;
     node[root].data = val;
+
+    // 在中序遍历vector中寻找先序遍历vector中确立的根节点 这里默认每个节点的值是互异的
     while (vin[index] != val)
         index++;
 
     vector<int> preLeft, preRight, vinLeft, vinRight;
 
-    for (int i = 0; i < index;i++){
+    // 截取更小的左右子树
+    for (int i = 0; i < index; i++)
+    {
         //第0个是根节点 用掉了
-        preLeft.push_back(pre[i+1]);
+        preLeft.push_back(pre[i + 1]);
         vinLeft.push_back(vin[i]);
     }
-
-    for (int i = index + 1; i < pre.size();i++){
+    for (int i = index + 1; i < pre.size(); i++)
+    {
         preRight.push_back(pre[i]);
         vinRight.push_back(vin[i]);
     }
 
+    //此时的节点的左右子节点是左子树和右子树的根节点
     node[root].left = buildTree(preLeft, vinLeft);
     node[root].right = buildTree(preRight, vinRight);
     return root;
@@ -162,7 +170,6 @@ void orderShow(int root)
          << "后序遍历:" << endl;
     postOrder(root);
     cout << endl;
-
 }
 
 int main()
