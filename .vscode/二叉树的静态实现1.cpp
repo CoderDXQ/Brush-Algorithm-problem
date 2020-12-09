@@ -36,6 +36,7 @@ int main()
 {
     BTree bt;
     cout << "先序创建二叉树：";
+    // 建议输入175###4#2##
     preCreateBT(bt);
     cout << "先序遍历二叉树(非递归): ";
     preOrder(bt);
