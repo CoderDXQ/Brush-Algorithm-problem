@@ -1,18 +1,17 @@
 #include<bits/stdc++.h>
+
 using namespace std;
 
-int main()
-{
-	string s="abcdefgh";
-
-	for(int i=0;i<=1;i++)
-	{
-		string s="gdf";
-		cout<<s<<endl;
-	}
-		cout<<s;
-	//cout<<s.substr(0,3)<<endl;
-	//cout<<s.substr(4)<<endl;
-	return 0;
+int main() {
+    string str = "google";
+    int ss[10005];
+    memset(ss, 0, sizeof(ss));
+    for (int i = 0; i < str.length(); i++) {
+        ss[str[i] - 'A']++;
+    }
+    for (int i = 0; i < str.length(); i++) {
+        if (ss[i] == 1) return i;
+    }
+    return -1;
 }
 

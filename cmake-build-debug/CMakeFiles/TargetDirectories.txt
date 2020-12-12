@@ -1,3 +1,0 @@
-/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles/Brush_Algorithm_problem.dir

@@ -549,4 +549,4 @@ add_executable(Brush_Algorithm_problem
         高精度加法.cpp
         鸡鸭分类问题.cpp)
 
-add_executable(和为s的两个数字 The_sword_refers_to_offer/和为s的两个数字.cpp)
+add_executable(ssss ssss.cpp)

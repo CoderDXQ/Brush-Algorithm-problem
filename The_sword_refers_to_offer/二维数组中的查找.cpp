@@ -1,6 +1,6 @@
 bool Find(int* matrix,int rows,int columns,int number)
 {//number是要查找的值
-    bool Find=false;
+    bool found=false;
 
     if(matrix!=nullptr && rows>0 && columns>0)//增强健壮性
     {
