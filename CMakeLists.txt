@@ -3,6 +3,13 @@ project(Brush_Algorithm_problem)
 
 set(CMAKE_CXX_STANDARD 14)
 
+#file (GLOB_RECURSE files *.cpp)
+#foreach (file ${files})
+#    string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
+#    add_executable (${exe} ${file})
+#    message (\ \ \ \ --\ src/${exe}.cpp\ will\ be\ compiled\ to\ bin/${exe})
+#endforeach ()
+
 add_executable(Brush_Algorithm_problem
         PAT_Code-master/A1001.cpp
         PAT_Code-master/A1002.cpp
@@ -550,3 +557,8 @@ add_executable(Brush_Algorithm_problem
         鸡鸭分类问题.cpp)
 
 add_executable(ssss ssss.cpp)
+add_executable(hh hh.h)
+
+add_executable(hhhh hhhh.cpp)
+add_executable(fgh fgh.cpp)
+add_executable(ttt ttt.cpp)
