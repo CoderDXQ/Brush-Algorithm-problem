@@ -12,7 +12,11 @@ int main() {
         ss[str[i] - 'A']++;
     }
     for (int i = 0; i < str.length(); i++) {
-        if (ss[i] == 1) return i;
+
+        if (ss[str[i] - 'A'] == 1) {
+            //    cout << i << endl;
+            return i;
+        }
     }
     return -1;
 }
