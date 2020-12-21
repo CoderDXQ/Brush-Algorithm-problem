@@ -3223,22 +3223,9 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.s"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/表示数值的字符串.cpp -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.s
 
-CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
-CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o: ../The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o"
-	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp
-
-CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i"
-	/usr/local/Cellar/gcc/10.2.0/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp > CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i
-
-CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s"
-	/usr/local/Cellar/gcc/10.2.0/bin/g++-10 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s
-
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o: ../The_sword_refers_to_offer/赋值.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/赋值.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.i: cmake_force
@@ -3251,7 +3238,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.s: c
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o: ../The_sword_refers_to_offer/连续子数组的最大和.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/连续子数组的最大和.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.i: cmake_force
@@ -3264,7 +3251,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o: ../The_sword_refers_to_offer/重建二叉树.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/重建二叉树.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.i: cmake_force
@@ -3277,7 +3264,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.o: ../The_sword_refers_to_offer/链表中倒数第k个节点.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/链表中倒数第k个节点.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数第k个节点.cpp.i: cmake_force
@@ -3290,7 +3277,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中倒数
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.o: ../The_sword_refers_to_offer/链表中环的入口节点.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/链表中环的入口节点.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的入口节点.cpp.i: cmake_force
@@ -3303,7 +3290,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/链表中环的
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.o: ../The_sword_refers_to_offer/队列的最大值.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/队列的最大值.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大值.cpp.i: cmake_force
@@ -3316,7 +3303,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/队列的最大
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.o: ../The_sword_refers_to_offer/顺时针打印矩阵.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/顺时针打印矩阵.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印矩阵.cpp.i: cmake_force
@@ -3329,7 +3316,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/顺时针打印
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.o: ../洛谷/bitset.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/bitset.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.i: cmake_force
@@ -3342,7 +3329,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/bitset.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.o: ../洛谷/P1009.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1009.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.i: cmake_force
@@ -3355,7 +3342,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1009.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.o: ../洛谷/P1065.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1065.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.i: cmake_force
@@ -3368,7 +3355,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1065.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.o: ../洛谷/P1075.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1075.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.i: cmake_force
@@ -3381,7 +3368,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1075.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.o: ../洛谷/P1125.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1125.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.i: cmake_force
@@ -3394,7 +3381,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1125.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.o: ../洛谷/P1319.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1319.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.i: cmake_force
@@ -3407,7 +3394,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1319.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.o: ../洛谷/P1320.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1320.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.i: cmake_force
@@ -3420,7 +3407,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1320.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.o: ../洛谷/P1765.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1765.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.i: cmake_force
@@ -3433,7 +3420,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1765.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.o: ../洛谷/P1888.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P1888.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.i: cmake_force
@@ -3446,7 +3433,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P1888.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.o: ../洛谷/P2141.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P2141.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.i: cmake_force
@@ -3459,7 +3446,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2141.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.o: ../洛谷/P2181.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P2181.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.i: cmake_force
@@ -3472,7 +3459,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2181.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.o: ../洛谷/P2615.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P2615.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.i: cmake_force
@@ -3485,7 +3472,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2615.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.o: ../洛谷/P2669.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P2669.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.i: cmake_force
@@ -3498,7 +3485,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2669.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.o: ../洛谷/P2670.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P2670.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.i: cmake_force
@@ -3511,7 +3498,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P2670.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.o: ../洛谷/P5015.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P5015.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.i: cmake_force
@@ -3524,7 +3511,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5015.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.o: ../洛谷/P5706.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P5706.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.i: cmake_force
@@ -3537,7 +3524,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5706.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.o: ../洛谷/P5709.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/P5709.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.i: cmake_force
@@ -3550,7 +3537,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/P5709.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.o: ../洛谷/tempCodeRunnerFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/tempCodeRunnerFile.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.i: cmake_force
@@ -3563,7 +3550,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/tempCodeRunnerFile.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.o: ../洛谷/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷/test.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.i: cmake_force
@@ -3576,7 +3563,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷/test.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.o: ../1001.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1001.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.i: cmake_force
@@ -3589,7 +3576,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1001.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.o: ../10012.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/10012.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.i: cmake_force
@@ -3602,7 +3589,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/10012.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.o: ../1002.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1002.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.i: cmake_force
@@ -3615,7 +3602,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1002.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.o: ../1004.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1004.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.i: cmake_force
@@ -3628,7 +3615,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1004.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.o: ../1011.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1011.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.i: cmake_force
@@ -3641,7 +3628,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1011.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.o: ../1013.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1013.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.i: cmake_force
@@ -3654,7 +3641,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1013.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.o: ../1014.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1014.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.i: cmake_force
@@ -3667,7 +3654,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1014.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.o: ../1015.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1015.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.i: cmake_force
@@ -3680,7 +3667,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1015.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.o: ../1015结构体数值的交换.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1015结构体数值的交换.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.i: cmake_force
@@ -3693,7 +3680,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1015结构体数值的交换.cpp.s: cmake
 
 CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.o: ../1016.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1016.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.i: cmake_force
@@ -3706,7 +3693,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1016.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.o: ../1017.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1017.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.i: cmake_force
@@ -3719,7 +3706,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1017.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.o: ../1018.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1018.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.i: cmake_force
@@ -3732,7 +3719,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1018.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.o: ../1019.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1019.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.i: cmake_force
@@ -3745,7 +3732,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1019.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.o: ../1020.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1020.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.i: cmake_force
@@ -3758,7 +3745,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1020.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.o: ../1021.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1021.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.i: cmake_force
@@ -3771,7 +3758,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1021.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.o: ../1022.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1022.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.i: cmake_force
@@ -3784,7 +3771,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1022.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.o: ../1023.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1023.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.i: cmake_force
@@ -3797,7 +3784,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1023.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.o: ../1024.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1024.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.i: cmake_force
@@ -3810,7 +3797,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1024.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.o: ../1025.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1025.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.i: cmake_force
@@ -3823,7 +3810,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1025.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.o: ../1026.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1026.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.i: cmake_force
@@ -3836,7 +3823,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1026.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.o: ../1027.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1027.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.i: cmake_force
@@ -3849,7 +3836,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1027.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.o: ../1030结构体数值的交换.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1030结构体数值的交换.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.i: cmake_force
@@ -3862,7 +3849,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1030结构体数值的交换.cpp.s: cmake
 
 CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.o: ../1080.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1080.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.i: cmake_force
@@ -3875,7 +3862,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1080.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.o: ../10800000.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/10800000.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.i: cmake_force
@@ -3888,7 +3875,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/10800000.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.o: ../1080多条件快速排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/1080多条件快速排序.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.i: cmake_force
@@ -3901,7 +3888,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/1080多条件快速排序.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.o: ../A1001.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1001.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.i: cmake_force
@@ -3914,7 +3901,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1001.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.o: ../A1002.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1002.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.i: cmake_force
@@ -3927,7 +3914,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1002.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.o: ../A1003.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1003.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.i: cmake_force
@@ -3940,7 +3927,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1003.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.o: ../A1004\ bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1004 bfs.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.i: cmake_force
@@ -3953,7 +3940,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1004_bfs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.o: ../A1004\ dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1004 dfs.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.i: cmake_force
@@ -3966,7 +3953,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1004_dfs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.o: ../A1004.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1004.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.i: cmake_force
@@ -3979,7 +3966,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1004.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.o: ../A1005.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1005.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.i: cmake_force
@@ -3992,7 +3979,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1005.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.o: ../A1006.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1006.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.i: cmake_force
@@ -4005,7 +3992,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1006.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.o: ../A1008.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1008.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.i: cmake_force
@@ -4018,7 +4005,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1008.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.o: ../A1009.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1009.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.i: cmake_force
@@ -4031,7 +4018,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1009.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.o: ../A1010.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1010.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.i: cmake_force
@@ -4044,7 +4031,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1010.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.o: ../A1011.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1011.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.i: cmake_force
@@ -4057,7 +4044,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1011.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.o: ../A1012.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1012.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.i: cmake_force
@@ -4070,7 +4057,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1012.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.o: ../A1013.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1013.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.i: cmake_force
@@ -4083,7 +4070,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1013.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.o: ../A1015.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1015.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.i: cmake_force
@@ -4096,7 +4083,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1015.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.o: ../A1018\ DFS+Dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1018 DFS+Dijkstra.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.i: cmake_force
@@ -4109,7 +4096,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1018_DFS+Dijkstra.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.o: ../A1018\ 不能只用dj.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1018 不能只用dj.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.i: cmake_force
@@ -4122,7 +4109,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1018_不能只用dj.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.o: ../A1018.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1018.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.i: cmake_force
@@ -4135,7 +4122,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1018.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.o: ../A1019.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1019.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.i: cmake_force
@@ -4148,7 +4135,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1019.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.o: ../A1020.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1020.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.i: cmake_force
@@ -4161,7 +4148,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1020.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.o: ../A1030\ Dijkstra+dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1030 Dijkstra+dfs.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.i: cmake_force
@@ -4174,7 +4161,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra+dfs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.o: ../A1030\ Dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1030 Dijkstra.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.i: cmake_force
@@ -4187,7 +4174,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1030_Dijkstra.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.o: ../A1030a.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1030a.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.i: cmake_force
@@ -4200,7 +4187,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1030a.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.o: ../A1032.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1032.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.i: cmake_force
@@ -4213,7 +4200,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1032.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.o: ../A1034.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1034.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.i: cmake_force
@@ -4226,7 +4213,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1034.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.o: ../A1043.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1043.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.i: cmake_force
@@ -4239,7 +4226,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1043.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.o: ../A1052.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1052.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.i: cmake_force
@@ -4252,7 +4239,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1052.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.o: ../A1053.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1053.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.i: cmake_force
@@ -4265,7 +4252,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1053.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.o: ../A1076.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1076.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.i: cmake_force
@@ -4278,7 +4265,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1076.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.o: ../A1094.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/A1094.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.i: cmake_force
@@ -4291,7 +4278,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/A1094.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.o: ../AC自动机\ 待学习.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/AC自动机 待学习.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.i: cmake_force
@@ -4304,7 +4291,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/AC自动机_待学习.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.o: ../CIDR.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/CIDR.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.i: cmake_force
@@ -4317,7 +4304,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/CIDR.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.o: ../CIDR去重.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/CIDR去重.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.i: cmake_force
@@ -4330,7 +4317,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/CIDR去重.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.o: ../debug.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/debug.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.i: cmake_force
@@ -4343,7 +4330,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/debug.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.o: ../Dijkstra\ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Dijkstra 1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.i: cmake_force
@@ -4356,7 +4343,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.o: ../Dijkstra\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Dijkstra 2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.i: cmake_force
@@ -4369,7 +4356,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra_2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.o: ../Dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Dijkstra.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.i: cmake_force
@@ -4382,7 +4369,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Dijkstra.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.o: ../gdfhdf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/gdfhdf.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.i: cmake_force
@@ -4395,7 +4382,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.o: ../helloworld.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/helloworld.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.i: cmake_force
@@ -4408,7 +4395,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/helloworld.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.o: ../jisuanqian.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/jisuanqian.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.i: cmake_force
@@ -4421,7 +4408,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/jisuanqian.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.o: ../jitu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/jitu.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.i: cmake_force
@@ -4434,7 +4421,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/jitu.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.o: ../jiugongge.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/jiugongge.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.i: cmake_force
@@ -4447,7 +4434,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/jiugongge.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.o: ../lianbiao.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/lianbiao.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.i: cmake_force
@@ -4460,7 +4447,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/lianbiao.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.o: ../m元分入n个红包.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/m元分入n个红包.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.i: cmake_force
@@ -4473,7 +4460,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/m元分入n个红包.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.o: ../P1029\ 最大公约数和最小公倍数.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1029 最大公约数和最小公倍数.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.cpp.i: cmake_force
@@ -4486,7 +4473,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1029_最大公约数和最小公倍数.c
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.o: ../P1030\ 指针做法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1030 指针做法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.i: cmake_force
@@ -4499,7 +4486,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1030_指针做法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.o: ../P1030\ 静态数组做法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1030 静态数组做法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.i: cmake_force
@@ -4512,7 +4499,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1030_静态数组做法.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.o: ../p1030.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1030.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.i: cmake_force
@@ -4525,7 +4512,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1030.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.o: ../P1032\ 另一种写法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1032 另一种写法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.i: cmake_force
@@ -4538,7 +4525,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1032_另一种写法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.o: ../p1032.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1032.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.i: cmake_force
@@ -4551,7 +4538,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1032.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.o: ../P1035\ 指针做法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1035 指针做法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.i: cmake_force
@@ -4564,7 +4551,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1035_指针做法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.o: ../P1035.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1035.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.i: cmake_force
@@ -4577,7 +4564,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1035.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.o: ../P1040\ 记忆化搜索.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1040 记忆化搜索.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.i: cmake_force
@@ -4590,7 +4577,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1040_记忆化搜索.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.o: ../p1045.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1045.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.i: cmake_force
@@ -4603,7 +4590,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1045.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.o: ../p1048.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1048.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.i: cmake_force
@@ -4616,7 +4603,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1048.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.o: ../p1049.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1049.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.i: cmake_force
@@ -4629,7 +4616,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1049.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.o: ../p1060.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1060.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.i: cmake_force
@@ -4642,7 +4629,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1060.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.o: ../P1064.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1064.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.i: cmake_force
@@ -4655,7 +4642,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1064.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.o: ../P1080.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1080.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.i: cmake_force
@@ -4668,7 +4655,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1080.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.o: ../p1087\ 指针做法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1087 指针做法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.i: cmake_force
@@ -4681,7 +4668,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1087_指针做法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.o: ../P1087\ 静态.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1087 静态.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.i: cmake_force
@@ -4694,7 +4681,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1087_静态.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.o: ../P1087.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1087.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.i: cmake_force
@@ -4707,7 +4694,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1087.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.o: ../P1088\ next_permutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1088 next_permutation.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.i: cmake_force
@@ -4720,7 +4707,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1088_next_permutation.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.o: ../P1126\ bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1126 bfs.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.i: cmake_force
@@ -4733,7 +4720,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1126_bfs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.o: ../P1126.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1126.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.i: cmake_force
@@ -4746,7 +4733,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1126.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.o: ../P1141\ DFS+并查集+滚动数组.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1141 DFS+并查集+滚动数组.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.i: cmake_force
@@ -4759,7 +4746,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1141_DFS+并查集+滚动数组.cpp.s: c
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.o: ../P1141\ 记忆化搜索.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1141 记忆化搜索.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.i: cmake_force
@@ -4772,7 +4759,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1141_记忆化搜索.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.o: ../P1160\ 指针解法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1160 指针解法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.i: cmake_force
@@ -4785,7 +4772,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1160_指针解法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.o: ../P1160\ 数组解法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1160 数组解法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.i: cmake_force
@@ -4798,7 +4785,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1160_数组解法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.o: ../p1164.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1164.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.i: cmake_force
@@ -4811,7 +4798,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1164.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.o: ../P1197\ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1197 1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.i: cmake_force
@@ -4824,7 +4811,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1197_1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.o: ../p1197\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1197 2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.i: cmake_force
@@ -4837,7 +4824,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1197_2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.o: ../P1305\ 非指针解法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1305 非指针解法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.i: cmake_force
@@ -4850,7 +4837,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1305_非指针解法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.o: ../p1338.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1338.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.i: cmake_force
@@ -4863,7 +4850,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1338.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.o: ../P1372.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1372.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.i: cmake_force
@@ -4876,7 +4863,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1372.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.o: ../P1403\ \ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1403  1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.i: cmake_force
@@ -4889,7 +4876,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1403__1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.o: ../P1403.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1403.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.i: cmake_force
@@ -4902,7 +4889,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1403.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.o: ../P1443\ dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1443 dfs.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.i: cmake_force
@@ -4915,7 +4902,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1443_dfs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.o: ../P1443.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1443.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.i: cmake_force
@@ -4928,7 +4915,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1443.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.o: ../p1582\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/p1582 2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.i: cmake_force
@@ -4941,7 +4928,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/p1582_2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.o: ../P1582.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1582.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.i: cmake_force
@@ -4954,7 +4941,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1582.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.o: ../P1605\ 迷宫.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1605 迷宫.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.i: cmake_force
@@ -4967,7 +4954,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1605_迷宫.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.o: ../P1616.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1616.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.i: cmake_force
@@ -4980,7 +4967,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1616.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.o: ../P1865.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P1865.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.i: cmake_force
@@ -4993,7 +4980,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P1865.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.o: ../P2085.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P2085.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.i: cmake_force
@@ -5006,7 +4993,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P2085.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.o: ../P2158.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P2158.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.i: cmake_force
@@ -5019,7 +5006,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P2158.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.o: ../P3366\ Kruskal+快排.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366 Kruskal+快排.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.i: cmake_force
@@ -5032,7 +5019,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366_Kruskal+快排.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.o: ../P3366\ 一般思路.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366 一般思路.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.i: cmake_force
@@ -5045,7 +5032,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366_一般思路.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.o: ../P3366\ 克鲁斯卡尔+快排\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366 克鲁斯卡尔+快排 .cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.i: cmake_force
@@ -5058,7 +5045,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366_克鲁斯卡尔+快排_.cpp.s: cmak
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.o: ../P3366\ 堆优化+Prime+邻接表\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366 堆优化+Prime+邻接表 .cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.i: cmake_force
@@ -5071,7 +5058,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表_.cpp.s: c
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.o: ../P3366\ 堆优化+Prime+邻接表.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366 堆优化+Prime+邻接表.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.i: cmake_force
@@ -5084,7 +5071,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366_堆优化+Prime+邻接表.cpp.s: cm
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.o: ../P3366克鲁斯卡尔+堆优化\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3366克鲁斯卡尔+堆优化 .cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.i: cmake_force
@@ -5097,7 +5084,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3366克鲁斯卡尔+堆优化_.cpp.s: cm
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.o: ../P3371\ dijkstra+优先队列+前向星+读入输出优化.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 dijkstra+优先队列+前向星+读入输出优化.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读入输出优化.cpp.i: cmake_force
@@ -5110,7 +5097,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_dijkstra+优先队列+前向星+读
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.o: ../P3371\ 前向星Dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 前向星Dijkstra.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.i: cmake_force
@@ -5123,7 +5110,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_前向星Dijkstra.cpp.s: cmake_forc
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.o: ../P3371\ 地杰斯特拉.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 地杰斯特拉.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.i: cmake_force
@@ -5136,7 +5123,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_地杰斯特拉.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.o: ../P3371\ 堆优化dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 堆优化dijkstra.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.i: cmake_force
@@ -5149,7 +5136,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_堆优化dijkstra.cpp.s: cmake_forc
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.o: ../P3371\ 简单思路.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 简单思路.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.i: cmake_force
@@ -5162,7 +5149,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_简单思路.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.o: ../P3371\ 邻接表Dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 邻接表Dijkstra.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.i: cmake_force
@@ -5175,7 +5162,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表Dijkstra.cpp.s: cmake_forc
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.o: ../P3371\ 邻接表SPFA\ (2).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.o" -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 邻接表SPFA (2).cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.i: cmake_force
@@ -5188,7 +5175,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA_(2).cpp.s: cmake_forc
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.o: ../P3371\ 邻接表SPFA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/P3371 邻接表SPFA.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.i: cmake_force
@@ -5201,7 +5188,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/P3371_邻接表SPFA.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.o: ../PAT\ 甲级\ 1003.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/PAT 甲级 1003.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.i: cmake_force
@@ -5214,7 +5201,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1003.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.o: ../PAT\ 甲级\ 1030.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/PAT 甲级 1030.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.i: cmake_force
@@ -5227,7 +5214,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/PAT_甲级_1030.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.o: ../Pp1403\ \ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Pp1403  1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.i: cmake_force
@@ -5240,7 +5227,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Pp1403__1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.o: ../quickSort\ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/quickSort 1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.i: cmake_force
@@ -5253,7 +5240,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/quickSort_1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.o: ../quicksort\ 11.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/quicksort 11.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.i: cmake_force
@@ -5266,7 +5253,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/quicksort_11.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.o: ../quicksort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/quicksort.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.i: cmake_force
@@ -5279,7 +5266,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/quicksort.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.o: ../se.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/se.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.i: cmake_force
@@ -5292,7 +5279,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/se.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.o: ../set用法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/set用法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.i: cmake_force
@@ -5305,7 +5292,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/set用法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.o: ../shiti\ 1.1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiti 1.1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.i: cmake_force
@@ -5318,7 +5305,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.o: ../shiti\ 1.2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiti 1.2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.i: cmake_force
@@ -5331,7 +5318,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiti_1.2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.o: ../shiti\ 2.1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiti 2.1.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.i: cmake_force
@@ -5344,7 +5331,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.o: ../shiti\ 2.2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiti 2.2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.i: cmake_force
@@ -5357,7 +5344,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiti_2.2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.o: ../shiyan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiyan.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.i: cmake_force
@@ -5370,7 +5357,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiyan.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.o: ../shiyn.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/shiyn.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.i: cmake_force
@@ -5383,7 +5370,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/shiyn.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.o: ../Shortestcharacterencoding.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Shortestcharacterencoding.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.i: cmake_force
@@ -5396,7 +5383,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Shortestcharacterencoding.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.o: ../sjiyan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sjiyan.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.i: cmake_force
@@ -5409,7 +5396,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sjiyan.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.o: ../ss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/ss.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.i: cmake_force
@@ -5422,7 +5409,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/ss.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.o: ../sshiyan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sshiyan.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.i: cmake_force
@@ -5435,7 +5422,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sshiyan.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.o: ../sss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sss.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.i: cmake_force
@@ -5448,7 +5435,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sss.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.o: ../ssss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/ssss.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.i: cmake_force
@@ -5461,7 +5448,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/ssss.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.o: ../sssssss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sssssss.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.i: cmake_force
@@ -5474,7 +5461,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sssssss.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.o: ../sssygs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sssygs.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.i: cmake_force
@@ -5487,7 +5474,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sssygs.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.o: ../ssyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/ssyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.i: cmake_force
@@ -5500,7 +5487,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/ssyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.o: ../sty.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sty.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.i: cmake_force
@@ -5513,7 +5500,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sty.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.o: ../sy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/sy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.i: cmake_force
@@ -5526,7 +5513,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/sy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.o: ../syysgyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/syysgyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.i: cmake_force
@@ -5539,7 +5526,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/syysgyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.o: ../syysyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/syysyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.i: cmake_force
@@ -5552,7 +5539,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/syysyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.o: ../syyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/syyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.i: cmake_force
@@ -5565,7 +5552,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/syyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.o: ../syyyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/syyyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.i: cmake_force
@@ -5578,7 +5565,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/syyyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.o: ../syyyyyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/syyyyyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.i: cmake_force
@@ -5591,7 +5578,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/syyyyyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.o: ../T1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/T1.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.i: cmake_force
@@ -5604,7 +5591,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/T1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.o: ../T2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/T2.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.i: cmake_force
@@ -5617,7 +5604,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/T2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.o: ../T3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/T3.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.i: cmake_force
@@ -5630,7 +5617,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/T3.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.o: ../tempCodeRunnerFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/tempCodeRunnerFile.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.i: cmake_force
@@ -5643,7 +5630,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/tempCodeRunnerFile.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.o: ../TIHUAN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/TIHUAN.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.i: cmake_force
@@ -5656,7 +5643,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/TIHUAN.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.o: ../Trie树\ 未完成.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Trie树 未完成.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.i: cmake_force
@@ -5669,7 +5656,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Trie树_未完成.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.o: ../Unt1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Unt1.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.i: cmake_force
@@ -5682,7 +5669,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Unt1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.o: ../Untissyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Untissyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.i: cmake_force
@@ -5695,7 +5682,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Untissyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.o: ../Untitled2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/Untitled2.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.i: cmake_force
@@ -5708,7 +5695,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/Untitled2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.o: ../xiugai.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/xiugai.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.i: cmake_force
@@ -5721,7 +5708,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/xiugai.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.o: ../xor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/xor.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.i: cmake_force
@@ -5734,7 +5721,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/xor.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.o: ../xor_prefix\ practice.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/xor_prefix practice.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.i: cmake_force
@@ -5747,7 +5734,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/xor_prefix_practice.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.o: ../yyyyy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/yyyyy.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.i: cmake_force
@@ -5760,7 +5747,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/yyyyy.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.o: ../zifuchuantihuan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/zifuchuantihuan.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.i: cmake_force
@@ -5773,7 +5760,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/zifuchuantihuan.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.o: ../二叉树的静态实现.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/二叉树的静态实现.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.i: cmake_force
@@ -5786,7 +5773,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/二叉树的静态实现.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.o: ../二进制中1的个数.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/二进制中1的个数.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.i: cmake_force
@@ -5799,7 +5786,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/二进制中1的个数.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.o: ../从文件中读取数据.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/从文件中读取数据.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.i: cmake_force
@@ -5812,7 +5799,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/从文件中读取数据.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.o: ../位运算.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/位运算.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.i: cmake_force
@@ -5825,7 +5812,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/位运算.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.o: ../几个岛.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/几个岛.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.i: cmake_force
@@ -5838,7 +5825,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/几个岛.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.o: ../利用map实现桶排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/利用map实现桶排序.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.i: cmake_force
@@ -5851,7 +5838,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/利用map实现桶排序.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.o: ../剪绳子.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/剪绳子.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.i: cmake_force
@@ -5864,7 +5851,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/剪绳子.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.o: ../参数解析.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/参数解析.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.i: cmake_force
@@ -5877,7 +5864,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/参数解析.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.o: ../反转列表.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/反转列表.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.i: cmake_force
@@ -5890,7 +5877,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/反转列表.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.o: ../合法ip.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/合法ip.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.i: cmake_force
@@ -5903,7 +5890,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/合法ip.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.o: ../合法括号序列判断.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/合法括号序列判断.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.i: cmake_force
@@ -5916,7 +5903,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.o: ../合法括号序列判断1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/合法括号序列判断1.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.i: cmake_force
@@ -5929,7 +5916,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/合法括号序列判断1.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.o: ../大数进制转换.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/大数进制转换.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.i: cmake_force
@@ -5942,7 +5929,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/大数进制转换.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.o: ../字符串内任意位置翻转.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/字符串内任意位置翻转.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.i: cmake_force
@@ -5955,7 +5942,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/字符串内任意位置翻转.cpp.s: cma
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.o: ../字符串分隔.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/字符串分隔.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.i: cmake_force
@@ -5968,7 +5955,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/字符串分隔.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.o: ../字符串的调整.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/字符串的调整.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.i: cmake_force
@@ -5981,7 +5968,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/字符串的调整.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.o: ../带负数的进制转换.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/带负数的进制转换.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.i: cmake_force
@@ -5994,7 +5981,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/带负数的进制转换.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.o: ../并查集\ P3367.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/并查集 P3367.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.i: cmake_force
@@ -6007,7 +5994,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/并查集_P3367.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.o: ../并查集.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/并查集.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.i: cmake_force
@@ -6020,7 +6007,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/并查集.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.o: ../归并排序的两种实现.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/归并排序的两种实现.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.i: cmake_force
@@ -6033,7 +6020,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/归并排序的两种实现.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.o: ../归并排序递归实现模板.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/归并排序递归实现模板.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.i: cmake_force
@@ -6046,7 +6033,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/归并排序递归实现模板.cpp.s: cma
 
 CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.o: ../循环数比较.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/循环数比较.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.i: cmake_force
@@ -6059,7 +6046,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/循环数比较.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.o: ../快速幂.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/快速幂.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.i: cmake_force
@@ -6072,7 +6059,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/快速幂.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.o: ../快速排序的两种表示.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/快速排序的两种表示.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.i: cmake_force
@@ -6085,7 +6072,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/快速排序的两种表示.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.o: ../数独2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/数独2.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.i: cmake_force
@@ -6098,7 +6085,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/数独2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.o: ../方法四作对比DIJKSTRA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/方法四作对比DIJKSTRA.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.i: cmake_force
@@ -6111,7 +6098,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/方法四作对比DIJKSTRA.cpp.s: cmake_f
 
 CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.o: ../替换空格.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/替换空格.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.i: cmake_force
@@ -6124,7 +6111,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/替换空格.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.o: ../最小公倍数.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/最小公倍数.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.i: cmake_force
@@ -6137,7 +6124,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/最小公倍数.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.o: ../最短字符编码1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/最短字符编码1.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.i: cmake_force
@@ -6150,7 +6137,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/最短字符编码1.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.o: ../格式处理.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/格式处理.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.i: cmake_force
@@ -6163,7 +6150,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/格式处理.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.o: ../模板\ 高精度乘法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/模板 高精度乘法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.i: cmake_force
@@ -6176,7 +6163,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/模板_高精度乘法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.o: ../模板.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/模板.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.i: cmake_force
@@ -6189,7 +6176,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/模板.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.o: ../洛谷p1045\ 进制转换+压位.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷p1045 进制转换+压位.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.i: cmake_force
@@ -6202,7 +6189,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_进制转换+压位.cpp.s: cm
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.o: ../洛谷p1045\ 高精度乘法+压位.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷p1045 高精度乘法+压位.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.i: cmake_force
@@ -6215,7 +6202,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷p1045_高精度乘法+压位.cpp.s:
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.o: ../洛谷P1045\ 高精度乘法+快速幂.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷P1045 高精度乘法+快速幂.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp.i: cmake_force
@@ -6228,7 +6215,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1045_高精度乘法+快速幂.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.o: ../洛谷P1162\ DFS\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/洛谷P1162 DFS .cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.i: cmake_force
@@ -6241,7 +6228,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/洛谷P1162_DFS_.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.o: ../简单DP.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/简单DP.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.i: cmake_force
@@ -6254,7 +6241,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/简单DP.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.o: ../素数表线性筛\ 落谷P3383.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/素数表线性筛 落谷P3383.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.i: cmake_force
@@ -6267,7 +6254,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/素数表线性筛_落谷P3383.cpp.s: cma
 
 CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.o: ../约瑟夫问题.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/约瑟夫问题.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.i: cmake_force
@@ -6280,7 +6267,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/约瑟夫问题.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.o: ../细节试验.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/细节试验.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.i: cmake_force
@@ -6293,7 +6280,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/细节试验.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.o: ../结构体+多条件排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/结构体+多条件排序.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.i: cmake_force
@@ -6306,7 +6293,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/结构体+多条件排序.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.o: ../结构体快速排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/结构体快速排序.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.i: cmake_force
@@ -6319,7 +6306,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/结构体快速排序.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.o: ../翻转子串.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/翻转子串.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.i: cmake_force
@@ -6332,7 +6319,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/翻转子串.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.o: ../落谷\ P1010.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1010.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.i: cmake_force
@@ -6345,7 +6332,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.o: ../落谷\ P1010幂次方.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1010幂次方.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.i: cmake_force
@@ -6358,7 +6345,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1010幂次方.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.o: ../落谷\ P1028.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1028.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.i: cmake_force
@@ -6371,7 +6358,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1028.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.o: ../落谷\ P1031.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1031.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.i: cmake_force
@@ -6384,7 +6371,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1031.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.o: ../落谷\ P1071.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1071.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.i: cmake_force
@@ -6397,7 +6384,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1071.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.o: ../落谷\ P1080.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1080.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.i: cmake_force
@@ -6410,7 +6397,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1080.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.o: ../落谷\ P1086.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1086.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.i: cmake_force
@@ -6423,7 +6410,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1086.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.o: ../落谷\ P1090.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1090.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.i: cmake_force
@@ -6436,7 +6423,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1090.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.o: ../落谷\ P1094.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1094.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.i: cmake_force
@@ -6449,7 +6436,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1094.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.o: ../落谷\ P1098.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1098.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.i: cmake_force
@@ -6462,7 +6449,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1098.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.o: ../落谷\ P1111.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1111.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.i: cmake_force
@@ -6475,7 +6462,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1111.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.o: ../落谷\ P1115.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1115.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.i: cmake_force
@@ -6488,7 +6475,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1115.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.o: ../落谷\ P1162.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1162.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.i: cmake_force
@@ -6501,7 +6488,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1162.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.o: ../落谷\ P1197\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1197 2.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.i: cmake_force
@@ -6514,7 +6501,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197_2.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.o: ../落谷\ P1197.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1197.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.i: cmake_force
@@ -6527,7 +6514,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1197.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.o: ../落谷\ P1341\ Hierholzer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1341 Hierholzer.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.i: cmake_force
@@ -6540,7 +6527,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1341_Hierholzer.cpp.s: cmake_forc
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.o: ../落谷\ P1449.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1449.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.i: cmake_force
@@ -6553,7 +6540,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1449.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.o: ../落谷\ P1464\ 打表方法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_499) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1464 打表方法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.i: cmake_force
@@ -6566,7 +6553,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_打表方法.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.o: ../落谷\ P1464\ 递归题.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_500) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_499) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1464 递归题.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.i: cmake_force
@@ -6579,7 +6566,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1464_递归题.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.o: ../落谷\ P1498\ 递归.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_501) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_500) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1498 递归.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.i: cmake_force
@@ -6592,7 +6579,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1498_递归.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.o: ../落谷\ p1498.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_502) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_501) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 p1498.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.i: cmake_force
@@ -6605,7 +6592,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_p1498.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.o: ../落谷\ P1540\ 机器翻译.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_503) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_502) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1540 机器翻译.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.i: cmake_force
@@ -6618,7 +6605,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1540_机器翻译.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.o: ../落谷\ P1603.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_504) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_503) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1603.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.i: cmake_force
@@ -6631,7 +6618,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1603.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.o: ../落谷\ P1604.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_505) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_504) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1604.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.i: cmake_force
@@ -6644,7 +6631,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1604.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.o: ../落谷\ P1739.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_506) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_505) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1739.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.i: cmake_force
@@ -6657,7 +6644,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1739.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.o: ../落谷\ P1781.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_507) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_506) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1781.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.i: cmake_force
@@ -6670,7 +6657,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1781.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.o: ../落谷\ P1801.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_508) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_507) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1801.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.i: cmake_force
@@ -6683,7 +6670,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1801.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.o: ../落谷\ P1803.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_509) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_508) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1803.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.i: cmake_force
@@ -6696,7 +6683,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1803.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.o: ../落谷\ P1908.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_510) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_509) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1908.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.i: cmake_force
@@ -6709,7 +6696,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1908.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.o: ../落谷\ P1996.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_511) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_510) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P1996.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.i: cmake_force
@@ -6722,7 +6709,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P1996.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.o: ../落谷\ P2024.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_512) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_511) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P2024.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.i: cmake_force
@@ -6735,7 +6722,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2024.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.o: ../落谷\ P2089\ 烤鸡.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_513) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_512) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P2089 烤鸡.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.i: cmake_force
@@ -6748,7 +6735,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2089_烤鸡.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.o: ../落谷\ P2278.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_514) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_513) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P2278.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.i: cmake_force
@@ -6761,7 +6748,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2278.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.o: ../落谷\ P2661\ 带权路径并查集.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_515) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_514) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P2661 带权路径并查集.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.i: cmake_force
@@ -6774,7 +6761,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_带权路径并查集.cpp.s:
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.o: ../落谷\ P2661\ 并查集.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_516) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_515) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷 P2661 并查集.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.i: cmake_force
@@ -6787,7 +6774,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷_P2661_并查集.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.o: ../落谷P.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_517) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_516) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.i: cmake_force
@@ -6800,7 +6787,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.o: ../落谷P1012.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_518) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_517) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1012.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.i: cmake_force
@@ -6813,7 +6800,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1012.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.o: ../落谷P1019.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_519) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_518) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1019.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.i: cmake_force
@@ -6826,7 +6813,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1019.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.o: ../落谷p1040\ 加分二叉树.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_520) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_519) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷p1040 加分二叉树.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.i: cmake_force
@@ -6839,7 +6826,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷p1040_加分二叉树.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.o: ../落谷P1042.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_521) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_520) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1042.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.i: cmake_force
@@ -6852,7 +6839,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1042.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.o: ../落谷P1092\ 虫食算\ 高斯消元法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_522) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_521) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1092 虫食算 高斯消元法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp.i: cmake_force
@@ -6865,7 +6852,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1092_虫食算_高斯消元法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.o: ../落谷P1101.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_523) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_522) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1101.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.i: cmake_force
@@ -6878,7 +6865,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1101.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.o: ../落谷P1141\ DFS+并查集.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_524) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_523) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1141 DFS+并查集.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.i: cmake_force
@@ -6891,7 +6878,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1141_DFS+并查集.cpp.s: cmake_fo
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.o: ../落谷P1147.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_525) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_524) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1147.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.i: cmake_force
@@ -6904,7 +6891,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1147.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.o: ../落谷P1160\ 二叉树解法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_526) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_525) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1160 二叉树解法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.i: cmake_force
@@ -6917,7 +6904,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1160_二叉树解法.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.o: ../落谷P1196\ 带权并查集.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_527) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_526) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1196 带权并查集.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.i: cmake_force
@@ -6930,7 +6917,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1196_带权并查集.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.o: ../落谷P1219\ 八皇后\ 全排列解法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_528) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_527) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1219 八皇后 全排列解法.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp.i: cmake_force
@@ -6943,7 +6930,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1219_八皇后_全排列解法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.o: ../落谷P1225\ 压位.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_529) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_528) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1225 压位.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.i: cmake_force
@@ -6956,7 +6943,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1225_压位.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.o: ../落谷P1484\ 种树.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_530) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_529) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P1484 种树.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.i: cmake_force
@@ -6969,7 +6956,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P1484_种树.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.o: ../落谷P2085.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_531) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_530) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P2085.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.i: cmake_force
@@ -6982,7 +6969,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P2085.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.o: ../落谷p2661\ 删边.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_532) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_531) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷p2661 删边.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.i: cmake_force
@@ -6995,7 +6982,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷p2661_删边.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.o: ../落谷P3366\ Kruskal+堆优化.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_533) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_532) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P3366 Kruskal+堆优化.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.i: cmake_force
@@ -7008,7 +6995,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P3366_Kruskal+堆优化.cpp.s: cmak
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.o: ../落谷P3952.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_534) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_533) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/落谷P3952.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.i: cmake_force
@@ -7021,7 +7008,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/落谷P3952.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.o: ../输入调整.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_535) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_534) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/输入调整.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.i: cmake_force
@@ -7034,7 +7021,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/输入调整.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.o: ../连续非空子串最大和.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_536) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_535) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/连续非空子串最大和.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.i: cmake_force
@@ -7047,7 +7034,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/连续非空子串最大和.cpp.s: cmake_
 
 CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.o: ../选数\ 落谷P1036.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_537) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_536) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.o -c "/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/选数 落谷P1036.cpp"
 
 CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.i: cmake_force
@@ -7060,7 +7047,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/选数_落谷P1036.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.o: ../邻接表SPFA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_538) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_537) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/邻接表SPFA.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.i: cmake_force
@@ -7073,7 +7060,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/邻接表SPFA.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.o: ../静态二叉树的实现.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_539) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_538) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/静态二叉树的实现.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.i: cmake_force
@@ -7086,7 +7073,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/静态二叉树的实现.cpp.s: cmake_for
 
 CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.o: ../顺子问题.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_540) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_539) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/顺子问题.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.i: cmake_force
@@ -7099,7 +7086,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/顺子问题.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.o: ../高精度乘法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_541) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_540) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/高精度乘法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.i: cmake_force
@@ -7112,7 +7099,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/高精度乘法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.o: ../高精度减法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_542) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_541) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/高精度减法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.i: cmake_force
@@ -7125,7 +7112,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/高精度减法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.o: ../高精度加法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_543) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_542) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/高精度加法.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.i: cmake_force
@@ -7138,7 +7125,7 @@ CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.cpp.s: cmake_force
 
 CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o: CMakeFiles/Brush_Algorithm_problem.dir/flags.make
 CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o: ../鸡鸭分类问题.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_544) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_543) "Building CXX object CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o"
 	/usr/local/Cellar/gcc/10.2.0/bin/g++-10  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o -c /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/鸡鸭分类问题.cpp
 
 CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.i: cmake_force
@@ -7393,7 +7380,6 @@ Brush_Algorithm_problem_OBJECTS = \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/翻转单词顺序.cpp.o" \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/股票的最大利润.cpp.o" \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.o" \
-"CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o" \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o" \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o" \
 "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o" \
@@ -7941,7 +7927,6 @@ Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/翻转单词顺序.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/股票的最大利润.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.o
-Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o
@@ -8245,7 +8230,7 @@ Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/高精度加法.
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/鸡鸭分类问题.cpp.o
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/build.make
 Brush_Algorithm_problem: CMakeFiles/Brush_Algorithm_problem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_545) "Linking CXX executable Brush_Algorithm_problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_544) "Linking CXX executable Brush_Algorithm_problem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Brush_Algorithm_problem.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

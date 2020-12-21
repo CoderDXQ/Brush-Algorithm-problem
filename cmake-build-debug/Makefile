@@ -144,6 +144,19 @@ ttt/fast:
 .PHONY : ttt/fast
 
 #=============================================================================
+# Target rules for targets named ghh
+
+# Build rule for target.
+ghh: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ghh
+.PHONY : ghh
+
+# fast build rule for target.
+ghh/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/build
+.PHONY : ghh/fast
+
+#=============================================================================
 # Target rules for targets named fgh
 
 # Build rule for target.
@@ -168,19 +181,6 @@ hhhh: cmake_check_build_system
 hhhh/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hhhh.dir/build.make CMakeFiles/hhhh.dir/build
 .PHONY : hhhh/fast
-
-#=============================================================================
-# Target rules for targets named hh
-
-# Build rule for target.
-hh: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 hh
-.PHONY : hh
-
-# fast build rule for target.
-hh/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hh.dir/build.make CMakeFiles/hh.dir/build
-.PHONY : hh/fast
 
 #=============================================================================
 # Target rules for targets named ssss
@@ -9820,33 +9820,6 @@ The_sword_refers_to_offer/表示数值的字符串.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Brush_Algorithm_problem.dir/build.make CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.s
 .PHONY : The_sword_refers_to_offer/表示数值的字符串.cpp.s
 
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.o: The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o
-
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.o
-
-# target to build an object file
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Brush_Algorithm_problem.dir/build.make CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o
-
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.i: The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i
-
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.i
-
-# target to preprocess a source file
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Brush_Algorithm_problem.dir/build.make CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.i
-
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.s: The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s
-
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.s
-
-# target to generate assembly for a file
-The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Brush_Algorithm_problem.dir/build.make CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s
-.PHONY : The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.s
-
 The_sword_refers_to_offer/赋值.o: The_sword_refers_to_offer/赋值.cpp.o
 
 .PHONY : The_sword_refers_to_offer/赋值.o
@@ -10224,6 +10197,33 @@ gdfhdf.s: gdfhdf.cpp.s
 gdfhdf.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Brush_Algorithm_problem.dir/build.make CMakeFiles/Brush_Algorithm_problem.dir/gdfhdf.cpp.s
 .PHONY : gdfhdf.cpp.s
+
+ghh.o: ghh.cpp.o
+
+.PHONY : ghh.o
+
+# target to build an object file
+ghh.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/ghh.cpp.o
+.PHONY : ghh.cpp.o
+
+ghh.i: ghh.cpp.i
+
+.PHONY : ghh.i
+
+# target to preprocess a source file
+ghh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/ghh.cpp.i
+.PHONY : ghh.cpp.i
+
+ghh.s: ghh.cpp.s
+
+.PHONY : ghh.s
+
+# target to generate assembly for a file
+ghh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/ghh.cpp.s
+.PHONY : ghh.cpp.s
 
 helloworld.o: helloworld.cpp.o
 
@@ -14990,7 +14990,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Brush_Algorithm_problem"
 	@echo "... fgh"
-	@echo "... hh"
+	@echo "... ghh"
 	@echo "... hhhh"
 	@echo "... ssss"
 	@echo "... ttt"
@@ -16062,9 +16062,6 @@ help:
 	@echo "... The_sword_refers_to_offer/表示数值的字符串.o"
 	@echo "... The_sword_refers_to_offer/表示数值的字符串.i"
 	@echo "... The_sword_refers_to_offer/表示数值的字符串.s"
-	@echo "... The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.o"
-	@echo "... The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.i"
-	@echo "... The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.s"
 	@echo "... The_sword_refers_to_offer/赋值.o"
 	@echo "... The_sword_refers_to_offer/赋值.i"
 	@echo "... The_sword_refers_to_offer/赋值.s"
@@ -16107,6 +16104,9 @@ help:
 	@echo "... gdfhdf.o"
 	@echo "... gdfhdf.i"
 	@echo "... gdfhdf.s"
+	@echo "... ghh.o"
+	@echo "... ghh.i"
+	@echo "... ghh.s"
 	@echo "... helloworld.o"
 	@echo "... helloworld.i"
 	@echo "... helloworld.s"

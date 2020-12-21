@@ -253,7 +253,7 @@ add_executable(Brush_Algorithm_problem
         The_sword_refers_to_offer/翻转单词顺序.cpp
         The_sword_refers_to_offer/股票的最大利润.cpp
         The_sword_refers_to_offer/表示数值的字符串.cpp
-        The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp
+#        The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp
         The_sword_refers_to_offer/赋值.cpp
         The_sword_refers_to_offer/连续子数组的最大和.cpp
         The_sword_refers_to_offer/重建二叉树.cpp
@@ -557,8 +557,11 @@ add_executable(Brush_Algorithm_problem
         鸡鸭分类问题.cpp)
 
 add_executable(ssss ssss.cpp)
-add_executable(hh hh.h)
+#add_executable(hh hh.h)
 
 add_executable(hhhh hhhh.cpp)
 add_executable(fgh fgh.cpp)
 add_executable(ttt ttt.cpp)
+#add_executable(调整数组顺序使奇数位于偶数前面 The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp)
+#add_executable(调整数组顺序使奇数位于偶数前面 The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp)
+add_executable(ghh ghh.cpp)

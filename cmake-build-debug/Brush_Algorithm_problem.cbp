@@ -81,6 +81,50 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ghh">
+				<Option output="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/ghh" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 ghh"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ghh/fast">
+				<Option output="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/ghh" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 ghh/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="fgh">
 				<Option output="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/fgh" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug"/>
@@ -164,50 +208,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 hhhh/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="hh">
-				<Option output="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/hh" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 hh"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="hh/fast">
-				<Option output="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/hh" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
-					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 hh/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1370,9 +1370,6 @@
 		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/表示数值的字符串.cpp">
 			<Option target="Brush_Algorithm_problem"/>
 		</Unit>
-		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp">
-			<Option target="Brush_Algorithm_problem"/>
-		</Unit>
 		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/The_sword_refers_to_offer/赋值.cpp">
 			<Option target="Brush_Algorithm_problem"/>
 		</Unit>
@@ -1415,11 +1412,11 @@
 		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/gdfhdf.cpp">
 			<Option target="Brush_Algorithm_problem"/>
 		</Unit>
+		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/ghh.cpp">
+			<Option target="ghh"/>
+		</Unit>
 		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/helloworld.cpp">
 			<Option target="Brush_Algorithm_problem"/>
-		</Unit>
-		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/hh.h">
-			<Option target="hh"/>
 		</Unit>
 		<Unit filename="/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/hhhh.cpp">
 			<Option target="hhhh"/>

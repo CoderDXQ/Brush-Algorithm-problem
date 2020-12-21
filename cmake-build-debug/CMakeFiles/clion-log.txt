@@ -1,6 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/10.2.0/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/10.2.0/bin/g++-10 -G "CodeBlocks - Unix Makefiles" /Users/duanxiangqing/Desktop/Brush-Algorithm-problem
 -- Configuring done
-CMake Error: Cannot determine link language for target "hh".
-CMake Error: CMake can not determine linker language for target: hh
 -- Generating done
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Build files have been written to: /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug

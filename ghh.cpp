@@ -58,12 +58,9 @@ bool isEven(int n)//将此函数换成其他条件的实现即可解决其他同
 }
 
 int main() {
-    int a =[1, 2, 3, 4, 5, 6, 7, 8, 9];
+    int a[9] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     ReorderOddEven(a, 9);
+    for (int i = 0; i < 9; i++)
+        cout << a[i] << " ";
 
 }
-
-
-
-
-

@@ -357,7 +357,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/翻转单词顺序.cpp.o"
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/股票的最大利润.cpp.o"
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/表示数值的字符串.cpp.o"
-  "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/调整数组顺序使奇数位于偶数前面.cpp.o"
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/赋值.cpp.o"
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/连续子数组的最大和.cpp.o"
   "CMakeFiles/Brush_Algorithm_problem.dir/The_sword_refers_to_offer/重建二叉树.cpp.o"

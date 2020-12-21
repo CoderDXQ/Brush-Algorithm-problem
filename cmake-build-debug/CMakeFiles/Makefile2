@@ -74,9 +74,9 @@ CMAKE_BINARY_DIR = /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-bu
 
 # The main recursive "all" target.
 all: CMakeFiles/ttt.dir/all
+all: CMakeFiles/ghh.dir/all
 all: CMakeFiles/fgh.dir/all
 all: CMakeFiles/hhhh.dir/all
-all: CMakeFiles/hh.dir/all
 all: CMakeFiles/ssss.dir/all
 all: CMakeFiles/Brush_Algorithm_problem.dir/all
 
@@ -89,9 +89,9 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/ttt.dir/clean
+clean: CMakeFiles/ghh.dir/clean
 clean: CMakeFiles/fgh.dir/clean
 clean: CMakeFiles/hhhh.dir/clean
-clean: CMakeFiles/hh.dir/clean
 clean: CMakeFiles/ssss.dir/clean
 clean: CMakeFiles/Brush_Algorithm_problem.dir/clean
 
@@ -123,6 +123,33 @@ ttt: CMakeFiles/ttt.dir/rule
 CMakeFiles/ttt.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ttt.dir/build.make CMakeFiles/ttt.dir/clean
 .PHONY : CMakeFiles/ttt.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ghh.dir
+
+# All Build rule for target.
+CMakeFiles/ghh.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num= "Built target ghh"
+.PHONY : CMakeFiles/ghh.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ghh.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ghh.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ghh.dir/rule
+
+# Convenience name for target.
+ghh: CMakeFiles/ghh.dir/rule
+
+.PHONY : ghh
+
+# clean rule for target.
+CMakeFiles/ghh.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ghh.dir/build.make CMakeFiles/ghh.dir/clean
+.PHONY : CMakeFiles/ghh.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/fgh.dir
@@ -177,33 +204,6 @@ hhhh: CMakeFiles/hhhh.dir/rule
 CMakeFiles/hhhh.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hhhh.dir/build.make CMakeFiles/hhhh.dir/clean
 .PHONY : CMakeFiles/hhhh.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/hh.dir
-
-# All Build rule for target.
-CMakeFiles/hh.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hh.dir/build.make CMakeFiles/hh.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hh.dir/build.make CMakeFiles/hh.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles --progress-num= "Built target hh"
-.PHONY : CMakeFiles/hh.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/hh.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles 0
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hh.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/duanxiangqing/Desktop/Brush-Algorithm-problem/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/hh.dir/rule
-
-# Convenience name for target.
-hh: CMakeFiles/hh.dir/rule
-
-.PHONY : hh
-
-# clean rule for target.
-CMakeFiles/hh.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hh.dir/build.make CMakeFiles/hh.dir/clean
-.PHONY : CMakeFiles/hh.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/ssss.dir
