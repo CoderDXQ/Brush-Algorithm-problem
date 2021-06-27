@@ -1,1 +1,1 @@
-/usr/local/Cellar/gcc/10.2.0/bin/g++-10  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/fgh.dir/fgh.cpp.o  -o fgh 
+/usr/local/Cellar/gcc/10.2.0/bin/g++-10  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/fgh.dir/fgh.cpp.o  -o fgh 
